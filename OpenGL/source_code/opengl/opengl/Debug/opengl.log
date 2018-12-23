@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\alen\downloads\opengl_tutorial\opengl\opengl\main.cpp(86): warning C4065: switch 陳述式包含 'default'，但沒有 'case' 標籤
+  opengl.vcxproj -> D:\Alen\Downloads\opengl_tutorial\opengl\Debug\opengl.exe
+  opengl.vcxproj -> D:\Alen\Downloads\opengl_tutorial\opengl\Debug\opengl.pdb (Partial PDB)
